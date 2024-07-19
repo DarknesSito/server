@@ -424,3 +424,8 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [19Jul2024 16:17:46.341] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
 [19Jul2024 16:21:14.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 hit the ground too hard
 [19Jul2024 16:21:14.752] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
+[19Jul2024 16:45:04.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 was killed
+[19Jul2024 16:45:04.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Killed DarknesSito05]
+[19Jul2024 16:45:04.506] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
+[19Jul2024 16:45:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack fell from a high place
+[19Jul2024 16:45:11.595] [Server thread/INFO] [tombstone/]: The player ByBlack has successfully been saved
