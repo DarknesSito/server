@@ -198,7 +198,8 @@
       "minecraft:skeleton": "2024-07-15 17:00:34 +0000",
       "minecraft:spider": "2024-07-15 16:21:30 +0000",
       "minecraft:stray": "2024-07-16 14:41:22 +0000",
-      "minecraft:zombie": "2024-07-15 16:20:23 +0000"
+      "minecraft:zombie": "2024-07-15 16:20:23 +0000",
+      "minecraft:drowned": "2024-07-19 15:59:22 +0000"
     },
     "done": false
   },
@@ -1863,6 +1864,12 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-07-19 15:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-07-19 16:01:30 +0000"
     },
     "done": true
   },

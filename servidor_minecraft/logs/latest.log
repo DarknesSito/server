@@ -390,3 +390,29 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [19Jul2024 15:57:19.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 was killed
 [19Jul2024 15:57:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Killed DarknesSito05]
 [19Jul2024 15:57:19.829] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
+[19Jul2024 16:01:15.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Creative Mode]
+[19Jul2024 16:01:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alessita94 was slain by Zombie
+[19Jul2024 16:01:38.139] [Server thread/INFO] [tombstone/]: The player Alessita94 has successfully been saved
+[19Jul2024 16:01:40.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack was slain by Zombie
+[19Jul2024 16:01:40.677] [Server thread/INFO] [tombstone/]: The player ByBlack has successfully been saved
+[19Jul2024 16:01:54.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Survival Mode]
+[19Jul2024 16:02:13.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack has made the advancement [A Strange Grave Dust]
+[19Jul2024 16:07:37.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Creative Mode]
+[19Jul2024 16:07:48.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Survival Mode]
+[19Jul2024 16:08:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Creative Mode]
+[19Jul2024 16:08:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Survival Mode]
+[19Jul2024 16:09:41.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack fell from a high place
+[19Jul2024 16:09:41.398] [Server thread/INFO] [tombstone/]: The player ByBlack has successfully been saved
+[19Jul2024 16:09:51.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 was killed
+[19Jul2024 16:09:51.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Killed DarknesSito05]
+[19Jul2024 16:09:51.212] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
+[19Jul2024 16:10:01.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByBlack was kicked for floating too long!
+[19Jul2024 16:10:01.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByBlack lost connection: Flying is not enabled on this server
+[19Jul2024 16:10:01.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack left the game
+[19Jul2024 16:10:01.484] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2024 16:10:10.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByBlack[/127.17.125.164:56751] logged in with entity id 10053 at (-60.00040398045905, 33.10132734880986, -1392.3828203342496)
+[19Jul2024 16:10:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack joined the game
+[19Jul2024 16:10:11.162] [Server thread/INFO] [Jade/]: Syncing config to ByBlack (9f010a62-77b1-333c-a484-6727f17aab41)
+[19Jul2024 16:10:16.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByBlack was kicked for floating too long!
+[19Jul2024 16:10:16.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByBlack lost connection: Flying is not enabled on this server
+[19Jul2024 16:10:16.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack left the game
