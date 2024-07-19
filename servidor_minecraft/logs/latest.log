@@ -362,3 +362,31 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [19Jul2024 15:32:43.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack has made the advancement [Suit Up]
 [19Jul2024 15:32:54.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack has made the advancement [Isn't It Iron Pick]
 [19Jul2024 15:32:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alessita94 has made the advancement [Acquire Hardware]
+[19Jul2024 15:41:24.804] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[19Jul2024 15:41:24.824] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[19Jul2024 15:41:24.824] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[19Jul2024 15:41:24.825] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[19Jul2024 15:41:24.825] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[19Jul2024 15:41:24.882] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[19Jul2024 15:41:24.884] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[19Jul2024 15:41:24.885] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[19Jul2024 15:41:25.267] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[19Jul2024 15:41:25.272] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[19Jul2024 15:41:25.277] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[19Jul2024 15:41:25.283] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[19Jul2024 15:41:25.286] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[19Jul2024 15:41:25.295] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[19Jul2024 15:41:25.298] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[19Jul2024 15:42:01.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Jul2024 15:42:01.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[19Jul2024 15:42:15.582] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[19Jul2024 15:42:15.583] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[19Jul2024 15:42:15.583] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[19Jul2024 15:42:15.796] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[19Jul2024 15:42:15.798] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[19Jul2024 15:42:15.798] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[19Jul2024 15:42:15.799] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[19Jul2024 15:42:15.801] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[19Jul2024 15:57:19.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 was killed
+[19Jul2024 15:57:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Killed DarknesSito05]
+[19Jul2024 15:57:19.829] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
