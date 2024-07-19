@@ -448,3 +448,17 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [19Jul2024 17:20:55.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alessita94 left the game
 [19Jul2024 17:28:09.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the time to 1000]
 [19Jul2024 17:34:13.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the weather to clear]
+[19Jul2024 17:57:12.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarknesSito05 lost connection: Disconnected
+[19Jul2024 17:57:12.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 left the game
+[19Jul2024 17:57:20.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Jul2024 17:57:20.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Jul2024 17:57:20.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Jul2024 17:57:20.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Jul2024 17:57:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Jul2024 17:57:27.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Jul2024 17:57:27.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Jul2024 17:57:27.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Jul2024 17:57:27.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Jul2024 17:57:27.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Jul2024 17:57:27.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Jul2024 17:57:27.789] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
