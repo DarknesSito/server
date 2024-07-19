@@ -439,3 +439,10 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [19Jul2024 17:06:12.462] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
 [19Jul2024 17:07:14.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Creative Mode]
 [19Jul2024 17:08:34.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Survival Mode]
+[19Jul2024 17:17:06.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 fell from a high place
+[19Jul2024 17:17:06.273] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
+[19Jul2024 17:20:36.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByBlack lost connection: Disconnected
+[19Jul2024 17:20:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack left the game
+[19Jul2024 17:20:37.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Creative Mode]
+[19Jul2024 17:20:55.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alessita94 lost connection: Disconnected
+[19Jul2024 17:20:55.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alessita94 left the game
