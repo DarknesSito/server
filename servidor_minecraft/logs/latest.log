@@ -447,3 +447,4 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [19Jul2024 17:20:55.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alessita94 lost connection: Disconnected
 [19Jul2024 17:20:55.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alessita94 left the game
 [19Jul2024 17:28:09.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the time to 1000]
+[19Jul2024 17:34:13.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the weather to clear]
