@@ -1860,5 +1860,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-07-19 15:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-07-19 15:35:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
