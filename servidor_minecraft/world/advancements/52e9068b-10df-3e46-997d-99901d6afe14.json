@@ -1138,6 +1138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-07-19 15:32:59 +0000"
@@ -1192,6 +1198,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-07-19 16:04:09 +0000"
@@ -1222,6 +1240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-07-19 16:00:37 +0000"
@@ -1246,15 +1270,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-07-19 15:32:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-07-19 15:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
     },
     "done": true
   },
@@ -1288,6 +1336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-07-19 15:32:05 +0000"
@@ -1303,6 +1357,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-07-19 15:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
     },
     "done": true
   },
@@ -1333,6 +1393,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-07-19 16:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
     },
     "done": true
   },
@@ -1372,6 +1438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-07-19 16:04:09 +0000"
@@ -1405,6 +1477,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-07-19 16:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
     },
     "done": true
   },
@@ -1465,6 +1543,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-07-19 15:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-07-19 16:23:34 +0000"
     },
     "done": true
   },

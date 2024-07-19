@@ -416,3 +416,11 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [19Jul2024 16:10:16.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByBlack was kicked for floating too long!
 [19Jul2024 16:10:16.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByBlack lost connection: Flying is not enabled on this server
 [19Jul2024 16:10:16.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack left the game
+[19Jul2024 16:10:23.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ByBlack[/127.17.125.164:40113] logged in with entity id 10087 at (-58.18841431798644, 16.979215131341117, -1393.0141404760561)
+[19Jul2024 16:10:23.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack joined the game
+[19Jul2024 16:10:23.723] [Server thread/INFO] [Jade/]: Syncing config to ByBlack (9f010a62-77b1-333c-a484-6727f17aab41)
+[19Jul2024 16:17:46.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 was killed
+[19Jul2024 16:17:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Killed DarknesSito05]
+[19Jul2024 16:17:46.341] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
+[19Jul2024 16:21:14.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 hit the ground too hard
+[19Jul2024 16:21:14.752] [Server thread/INFO] [tombstone/]: The player DarknesSito05 has successfully been saved
