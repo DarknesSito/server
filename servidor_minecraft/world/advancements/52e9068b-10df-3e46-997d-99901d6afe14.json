@@ -670,6 +670,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-07-22 19:09:54 +0000",
       "apple": "2024-07-16 15:02:34 +0000",
       "potato": "2024-07-18 14:15:04 +0000",
       "bread": "2024-07-16 14:49:22 +0000"
@@ -1735,6 +1736,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-07-22 18:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-07-22 19:05:31 +0000"
     },
     "done": true
   },

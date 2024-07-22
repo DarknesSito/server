@@ -341,3 +341,10 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [22Jul2024 18:50:54.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
 [22Jul2024 19:02:37.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ByBlack> gamemode creative
 [22Jul2024 19:03:19.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ByBlack> ./gamemode creative
+[22Jul2024 19:12:16.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack has reached the goal [Strong or Careful]
+[22Jul2024 19:12:16.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack was slain by Zombie
+[22Jul2024 19:12:16.610] [Server thread/INFO] [tombstone/]: The player ByBlack has successfully been saved
+[22Jul2024 19:15:14.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ByBlack lost connection: Disconnected
+[22Jul2024 19:15:14.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack left the game
+[22Jul2024 19:15:19.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alessita94 lost connection: Disconnected
+[22Jul2024 19:15:19.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alessita94 left the game
