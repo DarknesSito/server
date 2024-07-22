@@ -339,3 +339,5 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [22Jul2024 18:11:05.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack has made the advancement [A Seedy Place]
 [22Jul2024 18:50:54.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [22Jul2024 18:50:54.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[22Jul2024 19:02:37.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ByBlack> gamemode creative
+[22Jul2024 19:03:19.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ByBlack> ./gamemode creative
