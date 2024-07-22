@@ -336,3 +336,4 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [22Jul2024 17:52:27.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alessita94 joined the game
 [22Jul2024 17:52:28.099] [Server thread/INFO] [Jade/]: Syncing config to Alessita94 (52e9068b-10df-3e46-997d-99901d6afe14)
 [22Jul2024 18:05:28.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Jul2024 18:11:05.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack has made the advancement [A Seedy Place]

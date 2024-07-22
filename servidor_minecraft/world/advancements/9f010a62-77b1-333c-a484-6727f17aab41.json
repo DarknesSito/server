@@ -1616,5 +1616,17 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2024-07-22 18:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-07-22 18:11:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
