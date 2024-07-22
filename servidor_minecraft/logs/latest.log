@@ -348,3 +348,15 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [22Jul2024 19:15:14.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ByBlack left the game
 [22Jul2024 19:15:19.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alessita94 lost connection: Disconnected
 [22Jul2024 19:15:19.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alessita94 left the game
+[22Jul2024 19:16:26.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jul2024 19:16:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jul2024 19:16:26.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jul2024 19:16:26.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jul2024 19:16:27.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jul2024 19:16:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jul2024 19:16:33.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jul2024 19:16:33.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jul2024 19:16:33.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jul2024 19:16:33.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jul2024 19:16:33.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jul2024 19:16:33.636] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
