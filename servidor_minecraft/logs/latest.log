@@ -334,3 +334,11 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [23Jul2024 10:40:05.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the time to 1000]
 [23Jul2024 10:40:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the weather to clear]
 [23Jul2024 10:46:55.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the time to 1000]
+[23Jul2024 10:56:38.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the time to 1000]
+[23Jul2024 11:04:17.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarknesSito05 lost connection: Disconnected
+[23Jul2024 11:04:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 left the game
+[23Jul2024 11:04:22.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarknesSito05[/127.40.86.29:47219] logged in with entity id 4616 at (25.923456617975265, 72.0, -1499.300000011921)
+[23Jul2024 11:04:22.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 joined the game
+[23Jul2024 11:04:22.868] [Server thread/INFO] [Jade/]: Syncing config to DarknesSito05 (4bc2f94b-2eb0-3136-abc0-440e5909a95c)
+[23Jul2024 11:04:26.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3816ms or 76 ticks behind
+[23Jul2024 11:04:46.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Creative Mode]
