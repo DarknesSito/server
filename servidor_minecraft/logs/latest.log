@@ -346,3 +346,28 @@ java.lang.ClassNotFoundException: org.anti_ad.mc.common.LogBase
 [23Jul2024 11:17:15.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the time to 1000]
 [23Jul2024 11:26:45.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the time to 1000]
 [23Jul2024 11:36:08.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the time to 1000]
+[23Jul2024 11:43:10.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Survival Mode]
+[23Jul2024 11:44:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Creative Mode]
+[23Jul2024 11:46:02.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarknesSito05 lost connection: Disconnected
+[23Jul2024 11:46:02.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 left the game
+[23Jul2024 11:46:08.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarknesSito05[/127.40.86.29:49691] logged in with entity id 11357 at (-10.6282659645855, 63.0, -1488.6842616558258)
+[23Jul2024 11:46:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 joined the game
+[23Jul2024 11:46:08.124] [Server thread/INFO] [Jade/]: Syncing config to DarknesSito05 (4bc2f94b-2eb0-3136-abc0-440e5909a95c)
+[23Jul2024 11:46:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set the time to 1000]
+[23Jul2024 11:46:20.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Creative Mode]
+[23Jul2024 11:46:24.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Spectator Mode]
+[23Jul2024 11:46:29.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DarknesSito05: Set own game mode to Survival Mode]
+[23Jul2024 11:46:30.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarknesSito05 lost connection: Disconnected
+[23Jul2024 11:46:30.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarknesSito05 left the game
+[23Jul2024 11:46:39.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Jul2024 11:46:39.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jul2024 11:46:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jul2024 11:46:39.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jul2024 11:46:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jul2024 11:46:46.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jul2024 11:46:46.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jul2024 11:46:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jul2024 11:46:46.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jul2024 11:46:46.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jul2024 11:46:46.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Jul2024 11:46:46.619] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
